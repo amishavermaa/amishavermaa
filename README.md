@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Data Analyst & Developer</h3>  
 
 🚀 **Passionate about turning data into insights and ideas into applications!**  
-👀 I’m interested in **C, C++, Python, SQL, Web Development, Data Analysis, Visualization and almost everything involving logic and code**  
+👀 I’m interested in **C, C++, Python, SQL, Web Development, Data Analysis and almost everything involving logic and code**  
 🌱 I’m currently learning **Data Analysis**  
 👨‍💻 **Hobby** - I love **Photography, reading, trading, and analyzing data**  
 📫 **How to reach me:** [amishaverma.self@gmail.com](mailto:amishaverma.self@gmail.com)  
